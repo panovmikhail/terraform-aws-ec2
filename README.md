@@ -1,9 +1,5 @@
-# AWS template modules
+# Terraform AWS EC2 module
 
 List of Hashicorp Terraform template modules for AWS.
-
-## List of modules
-* AMI
-* EC2
 
 ## Getting started
